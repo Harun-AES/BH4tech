@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<urlset xmlns="[supheli baglanti kaldirildi]">
-<url>
-<loc>https://www.google.com/search?q=https://bh4tech.com/</loc>
-<lastmod>2026-01-03</lastmod>
-<changefreq>weekly</changefreq>
-<priority>1.0</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://bh4tech.com/</loc>
+    <lastmod>2026-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
